@@ -1,1 +1,1 @@
-# praktika-header
+# Практика header
